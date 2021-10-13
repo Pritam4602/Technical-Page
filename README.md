@@ -1,2 +1,2 @@
-# Technical-Page
+# Technical
 Technical page code
